@@ -1,0 +1,9 @@
+{
+	"preferences": {
+		"css.autoInsertVendorPrefixes": false,
+		"css.color.case": "lower",
+		"css.color.short": true,
+		"css.intUnit": "rem",
+		"css.floatUnit": "rem"
+	}
+}

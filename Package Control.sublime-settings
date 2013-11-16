@@ -1,0 +1,48 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
+		"AutoHotkey",
+		"Autoprefixer",
+		"Backbone.js",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CSSFontFamily",
+		"Dayle Rees Color Schemes",
+		"Dictionaries",
+		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git Config",
+		"GitGutter",
+		"Gitignore",
+		"Grunt",
+		"HexViewer",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLAttributes",
+		"INI",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"LineEndings",
+		"Markdown Preview",
+		"Package Syncing",
+		"QuickThemes",
+		"SCSS",
+		"Shell Command",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"TextMate-Kuroir-Theme",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"View In Browser",
+		"WordCount"
+	],
+	"repositories":
+	[
+		"https://github.com/MarioRicalde/TextMate-Kuroir-Theme.git"
+	]
+}

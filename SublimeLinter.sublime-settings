@@ -1,0 +1,41 @@
+{
+    "sublimelinter_mark_style": "outline",
+    "jshint_options":
+    {
+        "smarttabs": true
+    },
+    "csslint_options":
+    {
+        "vendor-prefix": true,
+        "display-property-grouping": true,
+        "duplicate-properties": true,
+        "empty-rules": true,
+        "errors": true,
+        "duplicate-background-images": "warning",
+        "gradients": "warning",
+        "import": "warning",
+        "overqualified-elements": "warning",
+        "regex-selectors": "warning",
+        "rules-count": "warning",
+        "shorthand": "warning",
+        "text-indent": "warning",
+        "underscore-property-hack": "warning",
+        "unique-headings": "warning",
+        "fallback-colors": false,
+        "qualified-headings": false,
+        "ids": false,
+        "zero-units": false,
+        "floats": false,
+        "font-faces": false,
+        "font-sizes": false,
+        "important": false,
+        "known-properties": false,
+        "outline-none": false,
+        "star-property-hack": false,
+        "universal-selector": false,
+        "adjoining-classes": false,
+        "box-model": false,
+        "box-sizing": false,
+        "compatible-vendor-prefixes": false
+    }
+}
