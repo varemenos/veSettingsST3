@@ -12,23 +12,14 @@
 			"selector": "source.js"
 		}
 	],
-	"color_scheme": "Packages/User/Kuroir Theme (SL).tmTheme",
-	"default_line_ending": "unix",
-	"draw_minimap_border": true,
-	"draw_white_space": "all",
-	"enable_tab_scrolling": false,
-	"enable_telemetry": true,
-	"ensure_newline_at_eof_on_save": true,
-	"fade_fold_buttons": false,
-	"fallback_encoding": "Western (Windows 1253)",
+	"color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
+	"font_face": "Ubuntu Mono",
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"JavaScriptNext - ES6 Syntax",
-		"AdvancedNewFile"
+		"Vintage"
 	],
 	"scroll_past_end": false,
 	"scroll_speed": 1.0,
@@ -36,7 +27,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_completion": false,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false

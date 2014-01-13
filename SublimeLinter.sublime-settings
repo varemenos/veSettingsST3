@@ -1,41 +1,53 @@
 {
-    "sublimelinter_mark_style": "outline",
-    "jshint_options":
-    {
-        "smarttabs": true
-    },
-    "csslint_options":
-    {
-        "vendor-prefix": true,
-        "display-property-grouping": true,
-        "duplicate-properties": true,
-        "empty-rules": true,
-        "errors": true,
-        "duplicate-background-images": "warning",
-        "gradients": "warning",
-        "import": "warning",
-        "overqualified-elements": "warning",
-        "regex-selectors": "warning",
-        "rules-count": "warning",
-        "shorthand": "warning",
-        "text-indent": "warning",
-        "underscore-property-hack": "warning",
-        "unique-headings": "warning",
-        "fallback-colors": false,
-        "qualified-headings": false,
-        "ids": false,
-        "zero-units": false,
-        "floats": false,
-        "font-faces": false,
-        "font-sizes": false,
-        "important": false,
-        "known-properties": false,
-        "outline-none": false,
-        "star-property-hack": false,
-        "universal-selector": false,
-        "adjoining-classes": false,
-        "box-model": false,
-        "box-sizing": false,
-        "compatible-vendor-prefixes": false
+    "user": {
+        "debug": false,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "background",
+        "linters": {
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
+            "jscs": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "paths": {
+            "linux": [
+                "/home/adonisk/.nvm/v0.10.24/bin/"
+            ],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "shell_timeout": 10,
+        "show_errors_on_save": false,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "php": "html"
+        },
+        "warning_color": "DDB700",
+        "wrap_find": true
     }
 }
