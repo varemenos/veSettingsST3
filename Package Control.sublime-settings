@@ -4,6 +4,7 @@
 		"AdvancedNewFile",
 		"ApacheConf.tmLanguage",
 		"Autoprefixer",
+		"Base16 Color Schemes",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CSSFontFamily",
@@ -24,20 +25,22 @@
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"Markdown Preview",
+		"nginx",
 		"Package Syncing",
 		"SCSS",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"Sublimall",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"Theme - Soda",
+		"Theme - Spacegray",
 		"Tomorrow Color Schemes",
 		"View In Browser",
-		"WordCount"
+		"WordCount",
+		"zenburn"
 	],
 	"repositories":
 	[
