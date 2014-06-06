@@ -4,7 +4,9 @@
 		"AdvancedNewFile",
 		"ApacheConf.tmLanguage",
 		"Autoprefixer",
+		"Base16 Color Schemes",
 		"BracketHighlighter",
+		"ColorSchemeSelector",
 		"ConvertToUTF8",
 		"CSSFontFamily",
 		"Dictionaries",
@@ -21,26 +23,27 @@
 		"HTML5",
 		"HTMLAttributes",
 		"INI",
-		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"Markdown Preview",
+		"nginx",
 		"Package Syncing",
+		"Predawn",
 		"SCSS",
 		"SideBarEnhancements",
-		"Solarized Color Scheme",
-		"Sublimall",
-		"SublimeCodeIntel",
+		"Sublime-CSS3",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
-		"SublimeLinter-jshint",
+		"Theme - Flatland",
 		"Theme - Soda",
-		"Tomorrow Color Schemes",
+		"Theme - Spacegray",
 		"View In Browser",
 		"WordCount"
 	],
 	"repositories":
 	[
-		"https://github.com/MarioRicalde/TextMate-Kuroir-Theme.git"
+		"https://github.com/MarioRicalde/TextMate-Kuroir-Theme.git",
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
 	]
 }

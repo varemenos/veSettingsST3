@@ -12,15 +12,24 @@
 			"selector": "source.js"
 		}
 	],
-	"color_scheme": "Packages/User/Solarized (light) (SL).tmTheme",
+	"color_scheme": "Packages/User/predawn (SL).tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "Ubuntu Mono",
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"WordCount"
+	],
+	"index_exclude_patterns":
+	[
+		"node_modules",
+		"*.log",
+		".sass-cache"
 	],
 	"scroll_past_end": false,
 	"scroll_speed": 1.0,
@@ -28,8 +37,9 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_completion": false,
-	"theme": "Soda Light.sublime-theme",
+	"tabs_small": true,
+	"theme": "predawn.sublime-theme",
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": true
 }

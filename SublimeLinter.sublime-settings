@@ -24,9 +24,9 @@
 				"ignore": "",
 				"warnings": ""
 			},
-			"jscs":
+			"eslint":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -34,7 +34,7 @@
 				[
 				]
 			},
-			"jshint":
+			"jscs":
 			{
 				"@disable": false,
 				"args":

@@ -29,6 +29,7 @@
 		".xsessionrc",
 		".wgetrc",
 		"symlink",
-		".zshrc"
+		".zshrc",
+		".zpreztorc"
 	]
 }
