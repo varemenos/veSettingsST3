@@ -12,7 +12,7 @@
 			"selector": "source.js"
 		}
 	],
-	"color_scheme": "Packages/User/predawn (SL).tmTheme",
+	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -27,9 +27,9 @@
 	],
 	"index_exclude_patterns":
 	[
-		"node_modules",
-		"*.log",
-		".sass-cache"
+		"/home/adonisk/repos/goodvidio-media-player/.sass-cache*",
+		"/home/adonisk/repos/goodvidio-media-player/node_modules*",
+		"*.log"
 	],
 	"scroll_past_end": false,
 	"scroll_speed": 1.0,
@@ -38,8 +38,10 @@
 	"show_line_endings": true,
 	"tab_completion": false,
 	"tabs_small": true,
-	"theme": "predawn.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
 	"word_wrap": true
 }
