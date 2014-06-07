@@ -12,12 +12,8 @@
 			"selector": "source.js"
 		}
 	],
-<<<<<<< HEAD
 	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
 	"draw_minimap_border": true,
-=======
-	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
->>>>>>> d0eebfb127523e88fc494a1a40d9d81663f0c766
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "Ubuntu Mono",
@@ -41,13 +37,9 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_completion": false,
-<<<<<<< HEAD
 	"tabs_small": true,
 	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-=======
-	"theme": "Spacegray.sublime-theme",
->>>>>>> d0eebfb127523e88fc494a1a40d9d81663f0c766
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
