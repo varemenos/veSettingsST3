@@ -30,7 +30,12 @@
 		"Predawn",
 		"SCSS",
 		"SideBarEnhancements",
+<<<<<<< HEAD
 		"Sublime-CSS3",
+=======
+		"Solarized Color Scheme",
+		"Sublimall",
+>>>>>>> d0eebfb127523e88fc494a1a40d9d81663f0c766
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
@@ -38,8 +43,13 @@
 		"Theme - Flatland",
 		"Theme - Soda",
 		"Theme - Spacegray",
+<<<<<<< HEAD
+=======
+		"Tomorrow Color Schemes",
+>>>>>>> d0eebfb127523e88fc494a1a40d9d81663f0c766
 		"View In Browser",
-		"WordCount"
+		"WordCount",
+		"zenburn"
 	],
 	"repositories":
 	[
