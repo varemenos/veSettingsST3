@@ -46,27 +46,6 @@
 	[
 		"Vintage"
 	],
-	"index_exclude_patterns":
-	[
-		"/home/adonisk/repos/goodvidio/on-boarding-platform/public/shopify/assets/libs*",
-		"/home/adonisk/repos/adonisk.com/node_modules*",
-		"/home/adonisk/repos/codemagic/bower_components*",
-		"*.log",
-		"/home/adonisk/repos/codemagic/node_modules*",
-		"/home/adonisk/repos/goodvidio/media-player/dev*",
-		"/home/adonisk/repos/adonisk.com/.sass-cache*",
-		"/home/adonisk/repos/goodvidio/on-boarding-platform/node_modules*",
-		"/home/adonisk/repos/goodvidio/media-player/dist*",
-		"/home/adonisk/repos/goodvidio/shopify-frontend/.sass-cache*",
-		"/home/adonisk/repos/goodvidio/website/node_modules*",
-		"/media/adonisk/linux/repos/skgnode-clitools/node_modules*",
-		"/home/adonisk/repos/goodvidio/gallery/node_modules*",
-		"/home/adonisk/repos/codemagic/.sass-cache*",
-		"/home/adonisk/repos/goodvidio/gallery/assets/js/libs*",
-		"/home/adonisk/repos/goodvidio/media-player/node_modules*",
-		"/home/adonisk/repos/goodvidio/gallery/.sass-cache*",
-		"/home/adonisk/repos/goodvidio/media-player/.sass-cache*"
-	],
 	"scroll_past_end": false,
 	"scroll_speed": 1.0,
 	"shift_tab_unindent": true,
