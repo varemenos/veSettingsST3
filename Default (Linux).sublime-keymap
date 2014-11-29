@@ -1,3 +1,5 @@
 [
 	{ "keys": ["ctrl+f12"], "command": "goto_definition" },
+    { "keys": ["f7"], "command": "schemr_cycle_schemes", "args": {"direction": "next"}},
+    { "keys": ["f8"], "command": "schemr_cycle_schemes", "args": {"direction": "prev"}}
 ]

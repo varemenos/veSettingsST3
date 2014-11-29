@@ -2,6 +2,9 @@
 	"extensions":
 	[
 		"sublime-settings",
-		".jsbeautifyrc"
+		".jsbeautifyrc",
+		".jscsrc",
+		".bowerrc",
+		"json"
 	]
 }

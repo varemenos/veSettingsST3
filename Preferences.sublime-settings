@@ -1,4 +1,6 @@
 {
+	"Seti_mouse_wheel_tabswitch": true,
+	"Seti_no_bar_undertabs": true,
 	"auto_close_tags": true,
 	"auto_complete": true,
 	"auto_complete_triggers":
@@ -12,24 +14,58 @@
 			"selector": "source.js"
 		}
 	],
-	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/Seti_monokai (SL).tmTheme",
+	"drag_text": true,
 	"draw_minimap_border": true,
+	"enable_tab_scrolling": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"fallback_encoding": "Western (Windows 1253)",
 	"font_face": "Ubuntu Mono",
-	"font_size": 14,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"WordCount"
+		"Vintage"
 	],
 	"index_exclude_patterns":
 	[
-		"/home/adonisk/repos/goodvidio-media-player/.sass-cache*",
-		"/home/adonisk/repos/goodvidio-media-player/node_modules*",
-		"*.log"
+		"/home/adonisk/repos/goodvidio/on-boarding-platform/public/shopify/assets/libs*",
+		"/home/adonisk/repos/adonisk.com/node_modules*",
+		"/home/adonisk/repos/codemagic/bower_components*",
+		"*.log",
+		"/home/adonisk/repos/codemagic/node_modules*",
+		"/home/adonisk/repos/goodvidio/media-player/dev*",
+		"/home/adonisk/repos/adonisk.com/.sass-cache*",
+		"/home/adonisk/repos/goodvidio/on-boarding-platform/node_modules*",
+		"/home/adonisk/repos/goodvidio/media-player/dist*",
+		"/home/adonisk/repos/goodvidio/shopify-frontend/.sass-cache*",
+		"/home/adonisk/repos/goodvidio/website/node_modules*",
+		"/media/adonisk/linux/repos/skgnode-clitools/node_modules*",
+		"/home/adonisk/repos/goodvidio/gallery/node_modules*",
+		"/home/adonisk/repos/codemagic/.sass-cache*",
+		"/home/adonisk/repos/goodvidio/gallery/assets/js/libs*",
+		"/home/adonisk/repos/goodvidio/media-player/node_modules*",
+		"/home/adonisk/repos/goodvidio/gallery/.sass-cache*",
+		"/home/adonisk/repos/goodvidio/media-player/.sass-cache*"
 	],
 	"scroll_past_end": false,
 	"scroll_speed": 1.0,
@@ -38,10 +74,11 @@
 	"show_line_endings": true,
 	"tab_completion": false,
 	"tabs_small": true,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
 	"use_tab_stops": true,
-	"word_wrap": true
+	"word_wrap": false
 }
